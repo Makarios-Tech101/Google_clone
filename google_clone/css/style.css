@@ -1,0 +1,43 @@
+
+
+.main {
+    margin: 100px auto  ;
+}
+.main .img-class img {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.main .input-class  {
+    
+    margin-top:-70px;
+    display: block;
+    border-radius: 24px;
+    
+} 
+.main .input-class input[type=text] {
+    line-height: 24px;
+    padding: 15px 250px;
+    border: 2px solid rgb(232, 224, 224);
+    margin: auto;
+    display: block;
+    border-radius: 24px;
+    
+}
+
+.main .btn-class {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.main .btn-class button {
+    background: #dfe1e5;
+    padding: 12px 18px;
+    border: none;
+    font-weight: 500;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 6px;
+}
